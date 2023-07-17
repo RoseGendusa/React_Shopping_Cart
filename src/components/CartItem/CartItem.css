@@ -1,0 +1,55 @@
+.Cart-Item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left, .right{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.left img{
+width: 100px;
+margin-right: 1rem;
+border-radius: 10px;
+box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+.left  h4{
+    font-size: 18px;
+}
+
+.right button{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: none;
+    background-color: #908d8d;
+    margin: 0.5rem;
+}
+
+.right button:hover{
+    background-color: #535252;
+}
+
+.right i{
+    color: white;
+}
+
+.right p{
+    font-size: 18px;
+    margin: 0.25rem;
+    font-weight: bold;
+}
+.right i.remove{
+    color: red;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+.right span{
+    font-weight: bold;
+}

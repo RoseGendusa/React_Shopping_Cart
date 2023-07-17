@@ -1,0 +1,76 @@
+.Payment{
+    background-color: #1581EE;
+    padding: 1rem;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.Payment img{
+    width: 100%;
+}
+
+.empty-card{
+    width: 100%;
+    background-color: #1060b0;
+    height: 75%;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.empty-card i{
+    background-color: #00376f;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.Payment label{
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 0.25rem;
+}
+.Payment input{
+    width: 100%;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 1rem;
+    outline: none;
+    background-color: #126BC5;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.Payment .buttons{
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.Payment button{
+    width: 45%;
+    margin-left: 1rem;
+    padding: 0.75rem 0;
+    border: 3px white solid;
+    background-color: transparent; 
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    transition: 0.3s all ease;
+}
+
+.Payment button:hover{
+    background-color: white;
+    color: #126BC5
+}
+#upload{
+    display: none;
+}

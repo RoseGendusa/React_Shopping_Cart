@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1", 
+        "title": "Iphone 12",
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-13-pro-max-graphite-2023?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1679072989055", 
+        "price": 1750, 
+        "qty":0
+    }, 
+    {
+        "id": "2", 
+        "title": "48 Inches TV",
+        "image": "https://cdn.mos.cms.futurecdn.net/BwSR4PFK3i5ZyhFEmZUBMS.jpg", 
+        "price": 450, 
+        "qty":0
+    }, 
+    {
+        "id": "3", 
+        "title": "Dell laptop",
+        "image": "https://cdn.britannica.com/77/170477-050-1C747EE3/Laptop-computer.jpg", 
+        "price": 590, 
+        "qty":0
+    },
+    {
+        "id": "4", 
+        "title": "Kids Toy",
+        "image": "https://m.media-amazon.com/images/I/81UGtQGfRgL._AC_UF894,1000_QL80_.jpg", 
+        "price": 59.69, 
+        "qty":0
+    },
+    {
+        "id": "5", 
+        "title": "Kitchen Gadget",
+        "image": "https://i.insider.com/5a54d489c32ae68e1a8b5091?width=750&format=jpeg&auto=webp", 
+        "price": 20.78, 
+        "qty":0
+    }
+]
