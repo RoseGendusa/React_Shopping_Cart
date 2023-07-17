@@ -1,3 +1,9 @@
+# React Shopping Cart App
+
+
+![login_page](https://github.com/gulfidanozturk/React_Shopping_Cart/blob/main/preview/Shopping%20Cart.png?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
